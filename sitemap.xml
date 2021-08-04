@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.drunker.com/undefined/%E6%98%AF%E4%BB%80%E4%B9%88%E9%99%90%E5%88%B6%E4%BA%86%E6%88%91%E4%BB%AC%E7%90%86%E8%A7%A3%E5%9B%9B%E5%85%83%E6%95%B0/</loc>
+    <loc>https://www.drunker.com/one/Hexo%E5%BB%BA%E7%AB%99%E8%BF%99%E5%87%A0%E4%B8%AA%E7%BD%91%E5%9D%80%E6%98%AF%E9%A6%96%E9%80%89/</loc>
+    
+    <lastmod>2021-08-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.drunker.com/two/wssemmmm/</loc>
     
     <lastmod>2021-08-04</lastmod>
     
@@ -11,14 +18,14 @@
   <url>
     <loc>https://www.drunker.com/one/MyCodeLife/</loc>
     
-    <lastmod>2021-08-03</lastmod>
+    <lastmod>2021-08-04</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.drunker.com/two/wssemmmm/</loc>
+    <loc>https://www.drunker.com/undefined/%E6%98%AF%E4%BB%80%E4%B9%88%E9%99%90%E5%88%B6%E4%BA%86%E6%88%91%E4%BB%AC%E7%90%86%E8%A7%A3%E5%9B%9B%E5%85%83%E6%95%B0/</loc>
     
-    <lastmod>2021-08-03</lastmod>
+    <lastmod>2021-08-04</lastmod>
     
   </url>
   
@@ -53,14 +60,7 @@
 
   
   <url>
-    <loc>https://www.drunker.com/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2021-08-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.drunker.com/tags/%E6%B8%B8%E6%88%8F%E4%BB%8B%E7%BB%8D/</loc>
+    <loc>https://www.drunker.com/tags/No%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -69,14 +69,7 @@
 
   
   <url>
-    <loc>https://www.drunker.com/categories/%E6%97%A0%E8%81%8A/</loc>
-    <lastmod>2021-08-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.drunker.com/categories/%E4%BD%9C%E5%93%81%E7%9B%B8%E5%85%B3/</loc>
+    <loc>https://www.drunker.com/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2021-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
